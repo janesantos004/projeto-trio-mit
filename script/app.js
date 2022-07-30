@@ -1,2 +1,2 @@
-alert("ola turma")
-alert("primeiro dia de intensivão")
+//alert("ola turma")
+//alert("primeiro dia de intensivão")

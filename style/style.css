@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    /*background-color: #EB3137;*/
+    margin: 0px;
+    padding: 20px;
+    color: #DB4682;
+    height: 200px;
+}
+
+.logo{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.cabecalho{
+    padding: 10px;
+    text-align: center;
+}
+#capa{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #DB4682;
+    color:#ffffff;
+}
+.capa{
+    width: 50%;
+
+}
+.capa img{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.desafio{
+    width: 100%;
+    text-align: center;
+    background-color: #DB4682;
+    color:#ffffff;
+}
+
+.solucao{
+    background-color: #383838;
+    color:white;
+    padding: 50px;
+}
+
+li{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+p{
+    font-size: 1em ;
+}
+
+footer{
+    background-color: #DB4682;
+    text-align: center;
+    font-weight: bold;
+    padding-top:25px;
+    padding-bottom: 25px;
+    color: #ffffff;
+}
