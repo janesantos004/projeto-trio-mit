@@ -73,3 +73,11 @@ footer{
     padding-bottom: 25px;
     color: #ffffff;
 }
+@font-face{
+fonte-family: 'IBM';
+src: url('../fontes/IBMPlexMono-Medium.ttf') format('truetype');
+    font-weight: normal;
+}
+body{
+font-family: 'IBM',sans-serif;
+}
