@@ -43,10 +43,9 @@ header{
 }
 
 .desafio{
-    width: 100%;
-    text-align: center;
     background-color: #DB4682;
     color:#ffffff;
+    padding: 50px;
 }
 
 .solucao{
