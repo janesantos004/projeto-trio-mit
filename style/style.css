@@ -82,4 +82,7 @@ body{
 font-family: 'IBM',sans-serif;
 }
 @font-face {
-    font-family: 'MuktaMahee'; src: url ('../fontes/MuktaMahee-ExtraBold.ttf') format ('truetype'); font-weight: bold; }
+    font-family: 'MuktaMahee';
+    src: url ('../fontes/MuktaMahee-ExtraBold.ttf') format ('truetype');
+    font-weight: normal;
+}
