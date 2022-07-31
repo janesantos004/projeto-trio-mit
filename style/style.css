@@ -4,11 +4,11 @@
 }
 
 header{
-    /*background-color: #EB3137;*/
     margin: 0px;
     padding: 20px;
     color: #DB4682;
     height: 200px;
+    font-size: 2.5em;
 }
 
 .logo{
