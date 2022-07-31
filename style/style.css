@@ -23,6 +23,7 @@ header{
 .cabecalho{
     padding: 10px;
     text-align: center;
+    font-family: 'MuktaMahee',sans-serif;
 }
 #capa{
     display: flex;
