@@ -48,12 +48,14 @@ header{
     background-color: #DB4682;
     color:#ffffff;
     padding: 50px;
+    font-family: 'IBM', sans-serif;
 }
 
 .solucao{
     background-color: #383838;
     color:white;
     padding: 50px;
+    font-family: 'IBM', sans-serif;
 }
 
 li{
@@ -72,14 +74,12 @@ footer{
     padding-top:25px;
     padding-bottom: 25px;
     color: #ffffff;
+    font-family: 'IBM', sans-serif;
 }
 @font-face{
 font-family: 'IBM';
 src: url('../fontes/IBMPlexMono-Medium.ttf') format('truetype');
     font-weight: normal;
-}
-body{
-font-family: 'IBM',sans-serif;
 }
 @font-face {
     font-family: 'MuktaMahee';
