@@ -74,7 +74,7 @@ footer{
     color: #ffffff;
 }
 @font-face{
-fonte-family: 'IBM';
+font-family: 'IBM';
 src: url('../fontes/IBMPlexMono-Medium.ttf') format('truetype');
     font-weight: normal;
 }
