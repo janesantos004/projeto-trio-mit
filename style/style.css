@@ -77,12 +77,12 @@ footer{
     font-family: 'IBM', sans-serif;
 }
 @font-face{
-font-family: 'IBM';
-src: url('../fontes/IBMPlexMono-Medium.ttf') format('truetype');
+    font-family: 'IBM';
+    src: url('../fontes/IBMPlexMono-Medium.ttf') format('truetype');
     font-weight: normal;
 }
 @font-face {
     font-family: 'MuktaMahee';
-    src: url ('../fontes/MuktaMahee-ExtraBold.ttf') format ('truetype');
+    src: url ('../fontes/MuktaMahee-ExtraBold.ttf') format('truetype');
     font-weight: normal;
 }
